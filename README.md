@@ -1,4 +1,4 @@
-# Welcome, Code Explorer! 🚀
+# Welcome, Code Traveler! 🚀
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-szczepanowski/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:konrad2381@gmail.com)
 
