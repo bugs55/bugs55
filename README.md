@@ -5,12 +5,18 @@
 ## Who am I?
 Hi! I'm Konrad, a digital explorer and technology enthusiast. My programming journey began with simple HTML webistes, and now I specialize in Front-End. I love creating innovative solutions using React/Next.js.
 
+### Currently working on...
+Movie database app with sorting, filtering and searching. Integrating with TMDB api.
+
+### Currently learning...
+Writing tests in React / Next.js.
+
+## My Superpowers
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,redux,figma,git,vscode)
+
 ## Fun Facts About Me
 - 📚 **Book Lover:** I absolutely love reading books, especially fantasy. My favorite book is The Mime Order by Samantha Shannon.
 - 🎬 **Movie Buff:** Watching movies and series is one of my favorite pastimes. My all-time favorite series is Arcane.
 - 🎮 **Gamer:** I enjoy playing computer games, particularly single-player, currently dungeon crawlers.
-
-## My Superpowers
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,redux,figma,git,vscode)
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, feel free to reach out. 😊
