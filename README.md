@@ -6,10 +6,10 @@
 Hi! I'm Konrad, a digital explorer and technology enthusiast. My programming journey began with simple HTML webistes, and now I specialize in Front-End. I love creating innovative solutions using React/Next.js.
 
 ### Currently working on...
-Movie database app with sorting, filtering and searching. Integrating with TMDB api.
+CMS to creating and managing blog posts
 
 ### Currently learning...
-Writing tests in React / Next.js.
+Participant of "Opanuj Frontend: AI Edition" Course ⚡
 
 ## My Superpowers
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwind,redux,figma,git,vscode)
