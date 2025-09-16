@@ -15,6 +15,7 @@ Hi, I’m **Konrad**, a Front-End Developer with a strong focus on building mode
 - **Languages & Frameworks:** TypeScript, JavaScript (ES6+), React, Next.js  
 - **Styling & UI:** Tailwind CSS, Redux, component libraries  
 - **Tools & Workflow:** Git, GitHub, Figma, VS Code  
+- **AI Tools:** Cursor, Github Copilot, ChatGPT
 
 ## Beyond the Code  
 - 📚 **Reader:** Passionate about books, especially fantasy literature  
