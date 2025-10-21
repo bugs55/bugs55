@@ -2,6 +2,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-szczepanowski/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:konrad2381@gmail.com)  
 
+[Organization account](https://github.com/konrad55)
+
 ## About Me  
 Hi, I’m **Konrad**, a Front-End Developer with a strong focus on building modern, scalable, and user-friendly web applications. My programming journey started with simple static websites, and today I specialize in **React** and **Next.js**, creating solutions that combine performance, accessibility, and clean design.  
 
